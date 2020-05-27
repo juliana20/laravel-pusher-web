@@ -46,7 +46,7 @@
                 </div>
               </div>
             </li>
-            <li><a href="#">Timeline</a></li>
+            <li><a href="#">Timeline Test perubahan</a></li>
             <li><a href="#">Friends</a></li>
           </ul>
         </div>
